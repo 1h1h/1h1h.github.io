@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-03-15T15:03:25.379Z</updated>
+  <updated>2018-03-23T14:36:03.798Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,6 +14,25 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>获取网易云外链</title>
+    <link href="http://yoursite.com/2018/03/23/page-1/"/>
+    <id>http://yoursite.com/2018/03/23/page-1/</id>
+    <published>2018-03-23T14:34:03.000Z</published>
+    <updated>2018-03-23T14:36:03.798Z</updated>
+    
+    <content type="html"><![CDATA[<p>今晚，给大家分享一个如何生成网易云外链的方法，这种方法的url是不会过期的。<br>比如，刚才我打开网易云的官网，点了一首林宥嘉的说谎，里面确实是有一种直接生成外链的方法，但是，却要版权，就无法生成，现在教大家一个生成外链的方法，我不能保证所有都可以，起码却大多数都可以。<br>网易云地址：<a href="http://music.163.com/#/song?id=108390" target="_blank" rel="external">http://music.163.com/#/song?id=108390</a><br>在这里，我们可以用这个公式<br><a href="http://music.163.com/song/media/outer/url?id=ID数字.mp3" target="_blank" rel="external">http://music.163.com/song/media/outer/url?id=ID数字.mp3</a><br>即：<br><a href="http://music.163.com/song/media/outer/url?id=108390.mp3，这样就能打开外链了。" target="_blank" rel="external">http://music.163.com/song/media/outer/url?id=108390.mp3，这样就能打开外链了。</a><br>那么打开外链之后能干嘛呢，可以用做小程序上一些音乐的地址，因为小程序上的音乐不能用本地的，只能用网上的url地址。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;今晚，给大家分享一个如何生成网易云外链的方法，这种方法的url是不会过期的。&lt;br&gt;比如，刚才我打开网易云的官网，点了一首林宥嘉的说谎，里面确实是有一种直接生成外链的方法，但是，却要版权，就无法生成，现在教大家一个生成外链的方法，我不能保证所有都可以，起码却大多数都可以。&lt;
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>感想</title>
